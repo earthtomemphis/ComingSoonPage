@@ -1,5 +1,6 @@
 body {
     background: #0C3C26;
+    box-sizing: border-box;
 }
 
 img {
@@ -26,3 +27,4 @@ img {
 .social i {
     color: #FFF;
 }
+
