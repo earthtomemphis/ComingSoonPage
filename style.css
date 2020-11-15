@@ -20,6 +20,14 @@ img {
 }
 
 .social {
-    background: #333;
     margin-top: 10px;
+}
+
+.form label {
+    display: flex;
+    flex-direction: column;
+}
+
+.social i {
+    color: #FFF;
 }
