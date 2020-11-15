@@ -18,3 +18,8 @@ img {
     justify-content: center;
     color: coral;
 }
+
+.social {
+    background: #333;
+    margin-top: 10px;
+}
